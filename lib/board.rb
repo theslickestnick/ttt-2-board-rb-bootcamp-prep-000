@@ -1,3 +1,4 @@
 # Define the variable board below.
-board = Array.new(len,val)
+puts board
+board = Array.new
 board = ["","","",""",""",""",""",""",""]
